@@ -1,0 +1,8 @@
+opencv-python
+pillow
+python-dotenv
+pyobjc-framework-AVFoundation; sys_platform == 'darwin'
+pyobjc-framework-Cocoa; sys_platform == 'darwin'
+pyobjc-framework-CoreMedia; sys_platform == 'darwin'
+pyobjc-framework-CoreVideo; sys_platform == 'darwin'
+openai
